@@ -6,14 +6,15 @@
 
 ## Carátula
 
-**Universidad:** [Nombre de tu universidad]
+**Universidad:** [Universidad De San Carlos De Guatemala (USAC)]
 **Facultad/Escuela:** Escuela de Ciencias y Sistemas
-**Curso:** [Nombre del curso]
-**Catedrático/Auxiliar:** [Nombre]
+**Curso:** [Practicas Iniciales - Seccion: C]
+**Catedrático/Auxiliar:** [Inga. Floriza Felipa
+Ávila de Medinilla]
 
 **Integrantes:**
-- [Tu nombre completo] — Servidor de Usuarios (AD, DNS, DHCP, GPOs)
-- [Nombre de tu compañero] — File Server
+- [Sergio Roberto Gudiel Sian] — Servidor de Usuarios (AD, DNS, DHCP, GPOs)
+- [Rudin Alexander Lopez Salvatierra] — File Server
 
 **Fecha de entrega:** 24 de septiembre de 2026
 
